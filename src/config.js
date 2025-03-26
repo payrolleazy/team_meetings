@@ -1,0 +1,1 @@
+export const GRAPH_API_ENDPOINT = 'https://graph.microsoft.com/v1.0';
